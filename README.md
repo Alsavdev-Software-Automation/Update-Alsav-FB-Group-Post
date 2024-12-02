@@ -8,5 +8,6 @@
   * Change type model
 * 2024-11-29 -- 1.1.10
   * Adding timeout on wait element
-
+* 2024-12-02 -- 1.2.0
+  * Update selector attachment for english language
 
