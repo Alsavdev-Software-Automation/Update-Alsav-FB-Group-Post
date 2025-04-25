@@ -10,4 +10,6 @@
   * Adding timeout on wait element
 * 2024-12-02 -- 1.2.0
   * Update selector attachment for english language
+* 2025-4-25 -- 1.2.2
+  * Update logic handle verification authentication & captcha
 
