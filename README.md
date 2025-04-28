@@ -12,4 +12,6 @@
   * Update selector attachment for english language
 * 2025-4-25 -- 1.2.2
   * Update logic handle verification authentication & captcha
+* 2025-4-28 -- 1.2.3
+  * Adding filtering to page discussion selection
 
