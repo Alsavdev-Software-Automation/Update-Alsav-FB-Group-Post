@@ -14,4 +14,8 @@
   * Update logic handle verification authentication & captcha
 * 2025-4-28 -- 1.2.3
   * Adding filtering to page discussion selection
+* 2025-6-15 -- 1.2.4
+  * Adjust timeout and wait until
+  * Update selector post
+  * Remove click attachment
 
